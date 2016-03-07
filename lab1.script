@@ -1,0 +1,16 @@
+Script started on Tue Mar  8 02:10:16 2016
+[?1034hbash-3.2$ whoami; pwd
+Raymond
+/Users/Raymond
+bash-3.2$ git o[Kconfig -;[Kl
+user.name=Raymond Hou
+user.email=raymondhou.ch@gmail.com
+core.editor=vim
+color.ui=true
+bash-3.2$ git com[K[Klone httt[Kps;[K://github.com/rayon[K[Kmondhou0917/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+bash-3.2$ exit
+
+Script done on Tue Mar  8 02:11:12 2016
